@@ -12,6 +12,8 @@
  * @var bool
  */
 define( 'WP_USE_THEMES', true );
-
 /** Loads the WordPress Environment and Template */
-require __DIR__ . '/wp-blog-header.php';
+	require __DIR__ . '/wp-blog-header.php';
+
+
+/** <link rel="icon" type="image/x-icon" href="https://www.honeymeal.ml/favicon.ico">
